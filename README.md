@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @sage2002 aka Snigdha
 - 👀 I’m interested in Learning new things
+- I am a front end developer and UI/UX Designer
+- Tech stacks: HTML, CSS, JAVASCRIPT, NODEJS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Open Source summits, Hackathons etc.
 - 📫 ~ kundusnigdha02@gmail.com
