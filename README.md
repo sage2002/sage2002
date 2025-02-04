@@ -77,7 +77,8 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 <div align="center">
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sage2002&theme=moonlight)
-<img src="https://streak-stats.demolab.com?user=sage2002&locale=en&mode=weekly&theme=react&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph"/>
+<img src="https://streak-stats.demolab.com?user=sage2002&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph"/>
+
 
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sage2002&theme=moonlight)
