@@ -76,13 +76,13 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 <div align="center">
 
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sage2002&theme=highcontrast)
+![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sage2002&theme=shades_of_purple)
 <img src="https://streak-stats.demolab.com?user=sage2002&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph"/>
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sage2002&theme=highcontrast)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sage2002&theme=highcontrast)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sage2002&theme=highcontrast)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sage2002&theme=highcontrast&utcOffset=8)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sage2002&theme=shades_of_purple)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sage2002&theme=shades_of_purple)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sage2002&theme=midnight_purple)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sage2002&theme=moonlight&utcOffset=8)
 
 ![](https://github-profile-trophy.vercel.app/?username=sage2002&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
