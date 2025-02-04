@@ -88,6 +88,6 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 ![](https://github-profile-trophy.vercel.app/?username=sage2002&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-<img align="center" width=320px border-radius="5 px" alt="Bunny" src="https://media.tenor.com/15825849/bunny-laptop-work.gif" />
+
 
 </div>
