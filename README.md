@@ -12,13 +12,13 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,java,tailwind,react,nodejs,gcp,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,java,tailwind,react,nodejs,gcp,mongodb&theme=light" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,flutter,typescript,javascript&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,flutter,typescript,javascript,nextjs&theme=light" />
   </a>
 </p>
 <div align="center">
