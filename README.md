@@ -77,7 +77,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 <div align="center">
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sage2002&theme=moonlight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=calm-pink)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sage2002&theme=calm-pink)](https://git.io/streak-stats)
 
 
 
