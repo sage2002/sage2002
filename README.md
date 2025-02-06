@@ -31,7 +31,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 
 
-<h1 align="left"> 🗣 Socials : </h1>
+<h1 align="left"> 📲 Socials : </h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/snigdha-kundu-2b4862254/">
@@ -77,7 +77,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 <div align="center">
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sage2002&theme=moonlight)
-<img src="https://streak-stats.demolab.com?user=sage2002&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=10&date_format=j M[ Y]&order=3" height="180" alt="streak graph"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aditya-Paul-2003&theme=calm-pink)](https://git.io/streak-stats)
 
 
 
