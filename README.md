@@ -12,7 +12,7 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,java,tailwindcss,reactjs,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,java,tailwind,react,nodejs,gcp,github&theme=light" />
   </a>
 </p>
 
