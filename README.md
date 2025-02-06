@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=F790C6&multiline=true&width=435&height=70&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=25&pause=1000&color=FFCFCF&multiline=true&width=435&height=70&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me: 🦋
 A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitive and visually appealing digital experiences. With a knack for front-end and back-end development, I turn ideas into reality with clean code and pixel-perfect designs.🩷
