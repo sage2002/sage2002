@@ -11,6 +11,14 @@ A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitiv
 
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,sqlserver,jupyter,pandas,excel,pbi"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,html,css,java,tailwind,react,nodejs,gcp,mongodb&theme=light" />
   </a>
