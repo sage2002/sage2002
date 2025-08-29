@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=25&pause=1000&color=CA7373&multiline=true&width=435&height=70&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile+🫶🏻)](https://git.io/typing-svg)
 
 # 💫 About Me: 🦋
-A passionate UI/UX Designer and Full-Stack Developer who loves crafting intuitive and visually appealing digital experiences. With a knack for front-end and back-end development, I turn ideas into reality with clean code and pixel-perfect designs.🩷
+A passionate Data Analyst skilled in uncovering insights through data wrangling, cleaning, visualization, and storytelling. Proficient in tools like Power BI, SQL, Python, and Excel, I transform raw data into meaningful reports and dashboards that drive informed decision-making. 📊✨
 
-💡 Beyond tech, I bring strong leadership skills, ensuring smooth collaboration and innovation in every project.
+💡 With strong analytical thinking and problem-solving skills, I thrive on turning complex datasets into clear, actionable insights that empower teams and organizations.
 
-📖🍳🎨 When I’m not coding or designing, you’ll find me reading books, experimenting in the kitchen, or creating new designs.
-🚀 Always learning, always building—let’s connect and create something amazing!
-<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ Fun fact - **"Designing with heart, coding with edge—where pixels meet personality!" 🎨💻✨** 
+📖🍳🎨 Outside of data, I enjoy reading books, experimenting in the kitchen, and exploring creative design projects.
+<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ Fun fact - **"Turning data into stories, numbers into impact—where logic meets creativity!" 📈🎨⚡** 
 
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
