@@ -6,7 +6,7 @@ A passionate Data Analyst skilled in uncovering insights through data wrangling,
 💡 With strong analytical thinking and problem-solving skills, I thrive on turning complex datasets into clear, actionable insights that empower teams and organizations.
 
 📖🍳🎨 Outside of data, I enjoy reading books, experimenting in the kitchen, and exploring creative design projects.
-<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ Fun fact - **"Turning data into stories, numbers into impact—where logic meets creativity!" 📈🎨⚡** 
+<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ **"Turning data into stories, numbers into impact—where logic meets creativity!" 📈🎨⚡** 
 
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
