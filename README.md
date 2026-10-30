@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=25&pause=1000&color=CA7373&multiline=true&width=435&height=70&lines=Hey!+Myself+Snigdha+%3C3;Welcome+to+my+Github+Profile+🫶🏻)](https://git.io/typing-svg)
 
 # 💫 About Me: 🦋
-A passionate Data Analyst skilled in uncovering insights through data wrangling, cleaning, visualization, and storytelling. Proficient in tools like Power BI, SQL, Python, and Excel, I transform raw data into meaningful reports and dashboards that drive informed decision-making. 📊✨
+A passionate UI/UX Designer and Front-End Developer who loves crafting intuitive, visually appealing, and user-friendly digital experiences. Skilled in UI/UX design, wireframing, prototyping, and interactive design using tools like Figma, Framer, and Adobe XD, along with front-end technologies such as HTML, CSS, JavaScript, React.js, and Next.js. I enjoy transforming creative concepts into functional, responsive, and engaging digital products. 🎨💻
 
-💡 With strong analytical thinking and problem-solving skills, I thrive on turning complex datasets into clear, actionable insights that empower teams and organizations.
+💡 With a strong eye for design and problem-solving, I thrive at the intersection of creativity and technology, building seamless user experiences and bringing ideas to life through thoughtful design and clean, interactive code. ✨
 
-📖🍳🎨 Outside of data, I enjoy reading books, experimenting in the kitchen, and exploring creative design projects.
+📖🍳🎨 Outside of Designing and Developing, I enjoy reading books, experimenting in the kitchen, and exploring.
 <br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ **"Turning data into stories, numbers into impact—where logic meets creativity!" 📈🎨⚡** 
 
 # 👩🏻‍💻 Tech Stack :
