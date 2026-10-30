@@ -6,7 +6,7 @@ A passionate UI/UX Designer and Front-End Developer who loves crafting intuitive
 💡 With a strong eye for design and problem-solving, I thrive at the intersection of creativity and technology, building seamless user experiences and bringing ideas to life through thoughtful design and clean, interactive code. ✨
 
 📖🍳🎨 Outside of Designing and Developing, I enjoy reading books, experimenting in the kitchen, and exploring.
-<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ **"Turning data into stories, numbers into impact—where logic meets creativity!" 📈🎨⚡** 
+<br><br>📫 Contact me **kundusnigdha02@gmail.com**<br><br> ⚡ **"Turning frames into stories, colors into impact - where logic meets creativity!" 📈🎨⚡** 
 
 # 👩🏻‍💻 Tech Stack :
 <p align="center">
